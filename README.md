@@ -1,2 +1,2 @@
 # the-old-way
-Sample to testthe old way branch
+Sample to test the old way branch
